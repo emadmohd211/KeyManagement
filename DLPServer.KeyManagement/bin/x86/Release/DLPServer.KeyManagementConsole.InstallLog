@@ -1,0 +1,26 @@
+﻿Installing assembly 'C:\Users\Hooman\Desktop\DLPServer.KeySafe\DLPServer.KeySafe\DLPServer.KeyManagement\bin\x86\Release\DLPServer.KeyManagementConsole.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Hooman\Desktop\DLPServer.KeySafe\DLPServer.KeySafe\DLPServer.KeyManagement\bin\x86\Release\DLPServer.KeyManagementConsole.InstallLog
+   assemblypath = C:\Users\Hooman\Desktop\DLPServer.KeySafe\DLPServer.KeySafe\DLPServer.KeyManagement\bin\x86\Release\DLPServer.KeyManagementConsole.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Hooman\Desktop\DLPServer.KeySafe\DLPServer.KeySafe\DLPServer.KeyManagement\bin\x86\Release\DLPServer.KeyManagementConsole.exe assembly.
+Committing assembly 'C:\Users\Hooman\Desktop\DLPServer.KeySafe\DLPServer.KeySafe\DLPServer.KeyManagement\bin\x86\Release\DLPServer.KeyManagementConsole.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Hooman\Desktop\DLPServer.KeySafe\DLPServer.KeySafe\DLPServer.KeyManagement\bin\x86\Release\DLPServer.KeyManagementConsole.InstallLog
+   assemblypath = C:\Users\Hooman\Desktop\DLPServer.KeySafe\DLPServer.KeySafe\DLPServer.KeyManagement\bin\x86\Release\DLPServer.KeyManagementConsole.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Hooman\Desktop\DLPServer.KeySafe\DLPServer.KeySafe\DLPServer.KeyManagement\bin\x86\Release\DLPServer.KeyManagementConsole.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\Hooman\Desktop\DLPServer.KeySafe\DLPServer.KeySafe\DLPServer.KeyManagement\bin\x86\Release\DLPServer.KeyManagementConsole.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Hooman\Desktop\DLPServer.KeySafe\DLPServer.KeySafe\DLPServer.KeyManagement\bin\x86\Release\DLPServer.KeyManagementConsole.InstallLog
+   assemblypath = C:\Users\Hooman\Desktop\DLPServer.KeySafe\DLPServer.KeySafe\DLPServer.KeyManagement\bin\x86\Release\DLPServer.KeyManagementConsole.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Hooman\Desktop\DLPServer.KeySafe\DLPServer.KeySafe\DLPServer.KeyManagement\bin\x86\Release\DLPServer.KeyManagementConsole.exe assembly.
+Committing assembly 'C:\Users\Hooman\Desktop\DLPServer.KeySafe\DLPServer.KeySafe\DLPServer.KeyManagement\bin\x86\Release\DLPServer.KeyManagementConsole.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Hooman\Desktop\DLPServer.KeySafe\DLPServer.KeySafe\DLPServer.KeyManagement\bin\x86\Release\DLPServer.KeyManagementConsole.InstallLog
+   assemblypath = C:\Users\Hooman\Desktop\DLPServer.KeySafe\DLPServer.KeySafe\DLPServer.KeyManagement\bin\x86\Release\DLPServer.KeyManagementConsole.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Hooman\Desktop\DLPServer.KeySafe\DLPServer.KeySafe\DLPServer.KeyManagement\bin\x86\Release\DLPServer.KeyManagementConsole.exe assembly.
+Remove InstallState file because there are no installers.
